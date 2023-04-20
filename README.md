@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Khalid SABIH 👋
 
 <!--
 **ChronoStone/ChronoStone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I am a 22 year-old Software Engineering student in my final year at the National School of Applied Sciences of Fez (ENSAF). I have recently started my end-of-studies internship as a Software Development Engineer at Société Générale Maroc.
+
+Throughout my academic journey at ENSAF, I have managed to develop a strong foundation in the software development field while also refining my teamwork skills, communicative aptitude, and ability to think creatively and I am eager to apply this well-rounded skill set in a thriving professional environment like SGMA. 
+
+- 🔭 I’m currently focusing on ...
 
 Here are some ideas to get you started:
 
