@@ -11,10 +11,13 @@ I am constantly striving to expand my skill set and knowledge, and currently del
 
 ### Find me elsewhere
 
-<a href="https://www.linkedin.com/in/khalid-sabih/">
+<a href="https://www.linkedin.com/in/khalid-sabih-3569b9210/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp; 
+<a href="https://www.facebook.com/khalide.sabih">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
 <!--
 **ChronoStone/ChronoStone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
