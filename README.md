@@ -9,8 +9,12 @@ Throughout my academic journey at ENSAF, I have managed to develop a strong foun
 Currently improving my SpringBoot/Angular skills !
 I am constantly striving to expand my skill set and knowledge, and currently delving into multiple areas of software engineering to broaden my expertise. Some of the fields I'm actively exploring include Cloud Computing, DevOps practices, Containerization, Agile methodologies.
 
-### Find me elsewhere 
+### Find me elsewhere
+
+<a href="https://www.linkedin.com/khalid-sabih/" rel="nofollow noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 <!--
 **ChronoStone/ChronoStone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
