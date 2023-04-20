@@ -1,4 +1,4 @@
-### Hi there  ! I'm Khalid SABIH 👋
+### Hi there !&nbsp; &nbsp;  I'm Khalid SABIH 👋
 
 I am a 22 year-old Software Engineering student in my final year at the National School of Applied Sciences of Fez (ENSAF). I have recently started my end-of-studies internship as a Software Development Engineer at Société Générale Maroc.
 
@@ -6,7 +6,7 @@ Throughout my academic journey at ENSAF, I have managed to develop a strong foun
 
 ### What I'm focusing on
 
-Currently improving my SpringBoot/Angular skills ! </br>
+Currently improving my SpringBoot/Angular skills. </br>
 I am constantly striving to expand my skill set and knowledge, and currently delving into multiple areas of software engineering to broaden my expertise. Some of the fields I'm actively exploring include Cloud Computing, DevOps practices, Containerization, Agile methodologies.
 
 ### Find me elsewhere
