@@ -4,8 +4,8 @@ I am a 22 year-old Software Engineering student in my final year at the National
 
 Throughout my academic journey at ENSAF, I have managed to develop a strong foundation in the software development field while also refining my teamwork skills, communicative aptitude, and ability to think creatively and I am eager to apply this well-rounded skill set in a thriving professional environment like SGMA. 
 
-- 🔭 What I'm currently focusing on ...
-- 
+###🔭 What I'm currently focusing on ...
+
 Currently improving my SpringBoot/Angular skills !
 
 <!--
