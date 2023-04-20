@@ -11,7 +11,7 @@ I am constantly striving to expand my skill set and knowledge, and currently del
 
 ### Find me elsewhere
 
-<a href="https://www.linkedin.com/khalid-sabih/" rel="nofollow noreferrer">
+<a href="https://www.linkedin.com/in/khalid-sabih/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
