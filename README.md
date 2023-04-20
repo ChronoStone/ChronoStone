@@ -6,7 +6,7 @@ Throughout my academic journey at ENSAF, I have managed to develop a strong foun
 
 ### What I'm focusing on
 
-Currently improving my SpringBoot/Angular skills !
+Currently improving my SpringBoot/Angular skills ! </br>
 I am constantly striving to expand my skill set and knowledge, and currently delving into multiple areas of software engineering to broaden my expertise. Some of the fields I'm actively exploring include Cloud Computing, DevOps practices, Containerization, Agile methodologies.
 
 ### Find me elsewhere
@@ -18,4 +18,9 @@ I am constantly striving to expand my skill set and knowledge, and currently del
 <a href="https://www.facebook.com/khalide.sabih">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
+&nbsp;
+<a href="https://www.hackerrank.com/khalidsabih001">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
 
