@@ -1,4 +1,4 @@
-### Hi there ! I'm Khalid SABIH 👋
+### Hi there  ! I'm Khalid SABIH 👋
 
 I am a 22 year-old Software Engineering student in my final year at the National School of Applied Sciences of Fez (ENSAF). I have recently started my end-of-studies internship as a Software Development Engineer at Société Générale Maroc.
 
