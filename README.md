@@ -22,5 +22,9 @@ I am constantly striving to expand my skill set and knowledge, and currently del
 <a href="https://www.hackerrank.com/khalidsabih001">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
+&nbsp;
+<a href="https://www.hackerrank.com/khalidsabih001">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 
