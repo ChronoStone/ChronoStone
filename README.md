@@ -11,19 +11,19 @@ I am constantly striving to expand my skill set and knowledge, and currently del
 
 ### Find me elsewhere
 
-<a href="https://www.linkedin.com/in/khalid-sabih-3569b9210/">
+<a href="https://www.linkedin.com/in/khalid-sabih-3569b9210/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp; 
-<a href="https://www.facebook.com/khalide.sabih">
+<a href="https://www.facebook.com/khalide.sabih" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.hackerrank.com/khalidsabih001">
+<a href="https://www.hackerrank.com/khalidsabih001" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.instagram.com/khalid_sabih_/">
+<a href="https://www.instagram.com/khalid_sabih_/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
